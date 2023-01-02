@@ -1,4 +1,4 @@
-###👋 hi there
+###zet1r
 🧩 student at 42
 🪄 sill finding the time to pimp my github
 
