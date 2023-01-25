@@ -1,7 +1,5 @@
 ### zet1r
-🧩 student at 42
-
-🪄 still finding the time to pimp my github
+🪄 student at 42
 <!--
 **zetir/zetir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
