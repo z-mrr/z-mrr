@@ -2,8 +2,8 @@
 🪄 Learning everyday at 42 Porto  
 - 🔹 C  
 - 🔷 C++  
-- 🔶 Git  
 - Ⓜ️ Make 
+- 🔶 Git  
 - 💲 Bash  
 - 🐧 Linux  
 - 🌐 Networking  
