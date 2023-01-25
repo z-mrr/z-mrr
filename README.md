@@ -2,7 +2,7 @@
 🪄 Learning everyday at 42Porto  
 - 🔹 C  
 - 🔷 C++  
-- Ⓜ️ Makefile  
+- Ⓜ️ Make 
 - 💲 Bash  
 - 🐧 Linux  
 - 🌐 Networking  
