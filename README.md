@@ -1,7 +1,5 @@
 ### zet1r
-🧩 Learning everyday at 42Porto  
-  
-🪄 Skills:  
+🪄 Learning everyday at 42Porto  
 - 🔹 C  
 - 🔷 C++  
 - Ⓜ️ Makefile  
