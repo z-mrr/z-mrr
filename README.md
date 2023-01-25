@@ -2,13 +2,13 @@
 🧩 Learning everyday at 42Porto  
   
 🪄 Skills:  
-  🔹 C  
-  🔷 C++  
-  Ⓜ️ Makefile  
-  💲 BASH  
-  🐧 Linux  
-  🌐 Networking  
-  🔶 Git  
+- 🔹 C  
+- 🔷 C++  
+- Ⓜ️ Makefile  
+- 💲 BASH  
+- 🐧 Linux  
+- 🌐 Networking  
+- 🔶 Git  
 <!--
 **zetir/zetir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
