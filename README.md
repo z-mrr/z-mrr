@@ -3,7 +3,7 @@
 - 🔹 C  
 - 🔷 C++  
 - Ⓜ️ Makefile  
-- 💲 BASH  
+- 💲 Bash  
 - 🐧 Linux  
 - 🌐 Networking  
 - 🔶 Git  
