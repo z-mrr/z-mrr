@@ -1,15 +1,14 @@
 ### zet1r
-🧩 learning everyday at 42Porto
-🪄 skills:
- -🔹 C
- -🔷 C++
- -💲 BASH
- -🌐 Network
- -🐧 Linux
- -🔶 git
- -Ⓜ️ Makefile
+🧩 Learning everyday at 42Porto  
   
-
+🪄 Skills:  
+ -🔹 C  
+ -🔷 C++  
+ -💲 BASH  
+ -🌐 Network  
+ -🐧 Linux  
+ -🔶 git  
+ -Ⓜ️ Makefile  
 <!--
 **zetir/zetir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
