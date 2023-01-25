@@ -2,11 +2,13 @@
 🪄 Learning everyday at 42 Porto  
 - 🔹 C  
 - 🔷 C++  
+- 🔶 Git  
 - Ⓜ️ Make 
 - 💲 Bash  
 - 🐧 Linux  
 - 🌐 Networking  
-- 🔶 Git  
+- 🟦 Virtual Machines
+
 <!--
 **zetir/zetir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
