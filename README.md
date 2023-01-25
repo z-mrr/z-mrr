@@ -1,13 +1,13 @@
 ### zet1r
 🧩 learning everyday at 42Porto
 🪄 skills:
-  🔹 C
-  🔷 C++
-  💲 BASH
-  🌐 Network
-  🐧 Linux
-  🔶 git
-  Ⓜ️ Makefile
+ -🔹 C
+ -🔷 C++
+ -💲 BASH
+ -🌐 Network
+ -🐧 Linux
+ -🔶 git
+ -Ⓜ️ Makefile
   
 
 <!--
