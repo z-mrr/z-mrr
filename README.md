@@ -1,5 +1,5 @@
 ### zet1r
-🪄 Learning everyday at 42 Porto
+🪄 Learning everyday
 - 🔹 C  
 - 🔷 C++  
 - Ⓜ️ Make 
