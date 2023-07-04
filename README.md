@@ -1,13 +1,15 @@
-### zet1r
+### Zé Miguel Moreira
 🪄 Learning everyday
 - 🔹 C  
 - 🔷 C++  
 - Ⓜ️ Make 
 - 🔶 Git  
 - 💲 Bash  
-- 🐧 Linux  
+- 🐧 Linux
+- 🪟 Windows
 - 🌐 Networking  
 - 🟦 Virtual Machines
+- 🐋 Docker
 
 <!--
 **zetir/zetir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
