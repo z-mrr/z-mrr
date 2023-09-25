@@ -1,4 +1,4 @@
-### Zé Miguel Moreira
+### Zé Moreira
 🪄 Learning everyday
 - 🔹 C  
 - 🔷 C++  
