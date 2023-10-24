@@ -1,5 +1,4 @@
 ### José Moreira
-🪄 Learning everyday
 - 🔹 C  
 - 🔷 C++  
 - Ⓜ️ Make 
