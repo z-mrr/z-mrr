@@ -14,3 +14,4 @@
 - 🟨 JavaScript
 - 🟧 HTML
 - 🟦 CSS
+- 📮 Postman
